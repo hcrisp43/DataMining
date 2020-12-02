@@ -2,4 +2,4 @@
 
  Implementation of the MLEM2 algorithm in Python
  
- [MLEM2 Algorithm](https://people.eecs.ku.edu/~jerzygb/j72-local.pdf)
+ [J.W. Grzymala-Busse and W. Rzasa / A Local Version of the MLEM2 Algorithm](https://people.eecs.ku.edu/~jerzygb/j72-local.pdf)
