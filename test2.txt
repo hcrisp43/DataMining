@@ -1,0 +1,9 @@
+< a a a d >
+[ A B C D ]
+0.8 blue 7.2 very-small
+0.8 black 7.2 small
+0.8 blue 10.2 medium
+1.2 black 10.2 medium
+1.2 black 10.2 medium
+2.0 blue 10.2 high
+2.0 blue 15.2 very-high
